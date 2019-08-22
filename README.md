@@ -1,7 +1,7 @@
 # SODA OS
-Simple IoT Operating System
+SodaOS is a very simple operating system based on Raspbian for learning IoT edge programming.
 
-## os image
+## image
 [v1.0_rc1](https://drive.google.com/open?id=1rhhLE4Jenq9zFDy5zC9groXM5ABMMikA)
 
 ## putty settings
