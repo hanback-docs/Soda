@@ -28,7 +28,8 @@ tmux
 ```
 
 ## host tools
-- [v1.2.3](https://drive.google.com/open?id=11tKgj8sRug7jJuA9WNzE_wPRbOChDEsk) 
+- [v1.2.3](https://drive.google.com/open?id=11tKgj8sRug7jJuA9WNzE_wPRbOChDEsk) <br>
+*append SD Formatter*
 
 ## putty setting
 - This is the same as included in the host tool.
