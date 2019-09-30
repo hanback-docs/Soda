@@ -28,8 +28,8 @@ tmux
 ```
 
 ## host tools
-- [v1.2](https://drive.google.com/open?id=14Ls-E2IDwqtLj4psC74JAFv8WB9D_C9Y) 
+- [v1.2.3](https://drive.google.com/open?id=11tKgj8sRug7jJuA9WNzE_wPRbOChDEsk) 
 
 ## putty setting
 - This is the same as included in the host tool.
-- [putty_setting](https://drive.google.com/open?id=1KDN3HKD8FcQ7Vx39PgyxYPIpyrg8AF5C)
+- [putty_setting](https://drive.google.com/open?id=1Ihd6P4PGWjg0Vvux6i1XYlmIdNS-dx_1)
