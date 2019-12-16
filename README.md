@@ -2,7 +2,7 @@
 Soda is a very simple operating system based on Raspbian for learning IoT edge programming.
 
 ## image
-- [v1.0](https://drive.google.com/open?id=1CO5UnX5VcYjJtKwTM_WEREL6Ye8SCvt3)
+- [v1.2](https://drive.google.com/open?id=17nt70mWATYzEGqmH4deJYjCeMvhI8KXj)
 
 ### Serial Terminal Setting. Proceed only for the users you really need.
 *Connect your storage(T-Flash or USB Memory) to your PC and check the drive letter.(ex D:)*<br><br>
