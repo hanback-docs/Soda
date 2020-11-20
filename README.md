@@ -24,7 +24,7 @@ ___
 ___
 ## NVIDIA Jetson NANO
 ### Features
-- NVIDIA Cuda Support
+- NVIDIA CUDA Support
 - NVIDIA CuDNN Support
 
 [Download](https://drive.google.com/file/d/1a5o14hnmivzDj4pAlLr-Jkl_7TTpcTsH/view?usp=sharing) Soda OS for NVIDIA Jetson NANO
