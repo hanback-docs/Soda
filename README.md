@@ -1,9 +1,9 @@
 # Soda OS
-Soda is a very simple operating system based on Raspbian for learning IoT edge programming.
+Soda is a very simple operating system based on Open Hardware Platform for learning IoT edge programming.
 
 ## image
 - [v1.2](https://drive.google.com/open?id=17nt70mWATYzEGqmH4deJYjCeMvhI8KXj)
-- Support Raspberry Pi 4<br><br>
+- Support Raspberry Pi 4, Jetson Nano, Xavier NX<br><br>
 
 ### Serial Terminal Setting. Proceed only for the users you really need.
 *Connect your storage(T-Flash or USB Memory) to your PC and check the drive letter.(ex D:)*<br><br>
