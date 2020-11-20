@@ -1,37 +1,38 @@
 # Soda OS
-Soda is a very simple operating system based on Open Hardware Platform for learning IoT edge programming.
+Soda OS is a very simple operating system based on the Open Hardware Platform for learning IoT edge programming.
+___
+## Common Features
+- Latest GCC Toolchain
+- C++ Interpreter Cling
+- Python3 Interpreter
+- Pop Library
+- Geany
+- NeoVim
+- Visual Studio Code
+- Customized Desktop Environment
+- BlueZ Library
+- Mosquitto MQTT Broker
+- Jupyter Lab
+- Python Libraries for Data Science (Matplotlib, Numpy, Tensorflow...)
+- OpenCV Library for Image processing
+___
+## Raspberry Pi 4
+### Features
+- Coral USB Accelerator Driver Support
 
-## image
-- [v1.2](https://drive.google.com/open?id=17nt70mWATYzEGqmH4deJYjCeMvhI8KXj)
-- Support Raspberry Pi 4, Jetson Nano, Xavier NX<br><br>
+[Download](https://drive.google.com/file/d/1BDs7O7px5P8oslwT8w9OKl5mPPWE7TeC/view?usp=sharing) Soda OS for Raspberry Pi 4
+___
+## NVIDIA Jetson NANO
+### Features
+- NVIDIA Cuda Support
+- NVIDIA CuDNN Support
 
-### Serial Terminal Setting. Proceed only for the users you really need.
-*Connect your storage(T-Flash or USB Memory) to your PC and check the drive letter.(ex D:)*<br><br>
+[Download](https://drive.google.com/file/d/1a5o14hnmivzDj4pAlLr-Jkl_7TTpcTsH/view?usp=sharing) Soda OS for NVIDIA Jetson NANO
+___
+## Host Tools
+[Download](https://drive.google.com/open?id=11tKgj8sRug7jJuA9WNzE_wPRbOChDEsk)
+___
+## PuTTY Settings
+- This is the same as included in the host tool
 
-*Open D:/boot/cmdline.txt and add the following to the end: (Note: Insert only one space without line breaks)* 
-```console 
-console=serial0,115200
-```
-*Open D:/boot/config.txt and add the following to the end:*
-```console
-arm_freq=1400
-core_freq=250
-```
-
-*Serial connections don't have a standard way of setting terminal geometry.*<br>
-*The assumed geometry is often 80x23 or 80x24 (terminals with zero to two status lines).*<br>
-*Once you're logged in, you can set your preferred geometry via the shell, using something like*<br>
-> Assume the actual terminal size is 30 rows and 120 columns<br>
-```console
-exit
-stty rows 30 cols 120
-tmux
-```
-
-## host tools
-- [v1.2.3](https://drive.google.com/open?id=11tKgj8sRug7jJuA9WNzE_wPRbOChDEsk) <br>
-*Rename folder and append SD Formatter*
-
-## putty setting
-- This is the same as included in the host tool.
-- [putty_setting](https://drive.google.com/open?id=1Ihd6P4PGWjg0Vvux6i1XYlmIdNS-dx_1)
+[Download](https://drive.google.com/open?id=1Ihd6P4PGWjg0Vvux6i1XYlmIdNS-dx_1)
